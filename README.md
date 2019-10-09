@@ -20,7 +20,7 @@
 ## Blockquotes
 As Alex T said:
 
->Life is like code
+>Life is like coding
 > try something new every day.
 
 
