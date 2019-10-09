@@ -25,7 +25,7 @@ As Alex T said:
 
 
 ## Emojis
-@alextarchini :+1: This PR looks great - it's ready to merge! :shipit:
+@alextarchini :+1: If this looks cool - give it a like! :shipit:
 
 #### References: https://bennettfeely.com/ and https://youtube.com/
 
