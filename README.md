@@ -10,8 +10,11 @@
 4. OPTIONAL: Go Bennettfeely.com  to and get a shape code: https://bennettfeely.com/clippy/ 	
 5. Style main.scss	
 6. Add some more elements to Index.html	
-7. Main.scss – add functions, organise sections	
-8. Make the page responsive with mixins:	
+7. Main.scss
+ – add functions, 
+ - organise sections	
+8. Make the page responsive:
+ - use mixins;
 9. Fianlly, the code  of main.scss should look like this: 	
 
 ## Blockquotes
